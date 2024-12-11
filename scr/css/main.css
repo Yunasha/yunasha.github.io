@@ -21,7 +21,8 @@ p {
     margin: 0px;
     cursor: default;
     color: #ffffff;
-    font-family: 'Ubuntu Mono';
+    font-family: 'Courier New';
+    font-weight: bold;
 }
 
 div {
@@ -39,7 +40,7 @@ button {
     border-top: 2px solid #dddddd;
     border-left: 2px solid #dddddd;
     color: #000000;
-    font-family: 'Ubuntu Mono';
+    font-family: 'Courier New';
 }
 
 button:active {
