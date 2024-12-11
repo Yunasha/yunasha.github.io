@@ -17,6 +17,10 @@ body {
     margin: 0px;
 }
 
+tr p {
+    margin-bottom: 0.5rem;
+}
+
 p {
     margin: 0px;
     cursor: default;
@@ -374,7 +378,7 @@ a {
 
 .link-table-link {
     text-align: center;
-    padding-bottom: 0.5rem;
+/*     padding-bottom: 0.5rem; */
 }
 
 @keyframes tab-info-text-container-table-fade {
