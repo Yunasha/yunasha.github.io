@@ -29,6 +29,14 @@ p {
     font-weight: bold;
 }
 
+a {
+    margin: 0px;
+    color: #ffffff;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+
+
 div {
     background: linear-gradient(to left, #0000FF, #00007e);
     padding: 0.25rem;
