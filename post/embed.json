@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "type": "photo",
+  "title": "oEmbed Title",
+  "author_name": "oEmbed Yunasha",
+  "provider_name": "ExampleProvider",
+  "provider_url": "https://yunasha.github.io/post/0",
+  "cache_age": "86400",
+  "url": "/src/img/Sunset%20Horn.png",
+  "width": 800,
+  "height": 600
+}
+
