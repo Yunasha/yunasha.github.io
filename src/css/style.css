@@ -1,14 +1,6 @@
+@import "font.css";
+
 /* BARK */
-
-@font-face {
-    font-family: "Frutiger";
-    src: url("/src/font/Frutiger_bold.ttf");
-}
-
-html {
-    font-family: 'Frutiger';
-    scroll-behavior: smooth;
-}
 
 body {
     margin: 0;
